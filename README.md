@@ -1,10 +1,11 @@
 # Proyecto Contenedor Web Linux
 
-### Integrantes
-*
-*
-*
-*
+### GRUPO NÚMERO 6
+### Integrantes:
+* Francisco Javier Calderón Castro **CC18147**
+* Jonathan Giovanni Hernández Recinos **HR24018**
+* Marlon Alexis Núñez Ramos **NR24002**
+* Javier Alexander Rodríguez Flores **RF24006**
 
 ## Preparación del Entorno Sevidor
 ### Administración Básica del Sistema
