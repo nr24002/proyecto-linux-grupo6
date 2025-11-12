@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  web:
+    container_name: servidor-web
+    image: nginx
+    restart: always
+    ports:
+      - "8080:80"
+    volumes:
+      - /proyecto/web/:/usr/share/nginx/html/

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head meta charset="UTF-8">>
+    <title>¡Contador Online!</title>
+    <link rel="stylesheet" href="src/styles.css" />
+  </head>
+  <body>
+    <header id="encabezado-principal">
+        <h1 class="title">¡Contador Simple Web!</h1>
+        <p id="descripcion">Una aplicación web simple para practicar HTML, CSS y JS.</p>
+    </header>
+
+    <div id="contenedor-principal">
+        
+        <div id="contenido-principal">
+            <div id="caja-contador">
+                <p id="contador-total">0000</p>
+            </div>
+        </div>
+
+        <div id="controles">
+            <button type="button" id="boton-sumar" onclick="sumarBoton()">Sumar</button>
+            <button type="button" id="boton-restar" onclick="restarBoton()">Restar</button> 
+            <button type="button" id="boton-reset" onclick="reiniciarBoton()">Reiniciar</button> 
+        </div>
+
+    </div>
+
+  <footer id="pie-pagina">
+        <p>Derechos Reservados © 2025</p>
+        <p id="horaActual"></p> 
+    </footer>
+
+    <script src="src/script.js"></script>
+  </body>
+</html>
