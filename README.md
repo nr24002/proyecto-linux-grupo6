@@ -111,6 +111,20 @@ Ejecutar contenedor Docker con la imagen:
 ```sudo docker run -d -p 8081:80 --name app-web servidor-grupo6```
 
 ### Capturas de Pantalla
-Acceder al servidor desde sistema remoto (Windows)
-![Terminal Windows SSH](capturas/Conectarse Remotamente.png)
+Acceder al servidor desde sistema remoto (Windows).
+<img width="1366" height="768" alt="Conectarse Remotamente" src="https://github.com/user-attachments/assets/852187a6-8a49-4b75-bddb-b3b53a4e6b7d" />
 
+Mostrar usuarios del proyecto.
+<img width="1366" height="768" alt="Mostrar Usuarios" src="https://github.com/user-attachments/assets/4d98399c-88ac-48eb-a1e5-ccb84a7cffa4" />
+
+Estructura de archivos del proyecto.
+<img width="1366" height="768" alt="Estructura de Archivos del Proyecto" src="https://github.com/user-attachments/assets/638425aa-1980-4a8f-8052-129be5e750da" />
+
+Mostrar logs del script de monitoreo.
+<img width="1366" height="768" alt="Logs del script de Monitoreo" src="https://github.com/user-attachments/assets/8e27612b-a652-4b09-9618-3f30a92005a9" />
+
+Inicar contenedor Docker y logs de inicio.
+<img width="1366" height="768" alt="Iniciar Contenedor Docker" src="https://github.com/user-attachments/assets/eed4aa6d-40a6-43f1-9472-c8891f340db0" />
+
+Proyecto web visto en el navegador.
+<img width="1366" height="768" alt="Proyecto en Navegador" src="https://github.com/user-attachments/assets/a52feca5-877f-4aad-ab3e-06f7b132b29c" />
