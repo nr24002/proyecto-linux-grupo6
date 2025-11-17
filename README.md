@@ -110,3 +110,7 @@ Construir imagen personalizada:
 Ejecutar contenedor Docker con la imagen:
 ```sudo docker run -d -p 8081:80 --name app-web servidor-grupo6```
 
+### Capturas de Pantalla
+Acceder al servidor desde sistema remoto (Windows)
+![Terminal Windows SSH](capturas/Conectarse Remotamente.png)
+
